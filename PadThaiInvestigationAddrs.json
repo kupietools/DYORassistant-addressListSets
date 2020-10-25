@@ -11,7 +11,7 @@
 "0x6f450f117114075d1d1c91dd64a61c0ba72ca68f":"PADTHAI Token contract",
 "0x7a206827f220b0204ac9c893b791dc84321263e9":"200PTK preown liquidator",
 "0x81eb4e8aba0b5756d9d5dcb487d7ebb1453b226c":"PTK last-minute liquidator",
-"0x9b9141d9d8c739a765e30b07d921793fc35956dc":"PTK kingme deployer",
+"0x9b9141d9d8c739a765e30b07d921793fc35956dc":"KingMe contract deployer",
 "0xa385e581ae50c26dfdb70f9d1e69842845283880":"4000 PTK recd from deployer",
 "0xac58e95a8ddc9aa12cf1c0d721167c4cf2ae15d7":"Last sucker to buy PTK",
 "0xb4c959f467526ac65d2e04eb471fc1342b07e9a4":"Got from 'A', #3 held->0",
