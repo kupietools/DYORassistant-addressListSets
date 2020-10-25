@@ -1,0 +1,6 @@
+{
+"0x0000000000000000000000000000000000000000":"ETH genesis (minting) address",
+"0x000000000000000000000000000000000000dead":"ETH burn address",
+"0xab5801a7d398351b8be11c439e05c5b3259aec9b":"Vitalik Buterin's public wallet",
+"0x7a250d5630b4cf539739df2c5dacb4c659f2488d":"Uniswap V2 main router"
+}
